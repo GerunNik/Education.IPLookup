@@ -1,0 +1,11 @@
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\lookupIP\lookupIP\bin\Debug\netcoreapp2.1\lookupIP.deps.json
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\lookupIP\lookupIP\bin\Debug\netcoreapp2.1\lookupIP.runtimeconfig.json
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\lookupIP\lookupIP\bin\Debug\netcoreapp2.1\lookupIP.runtimeconfig.dev.json
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\lookupIP\lookupIP\bin\Debug\netcoreapp2.1\lookupIP.dll
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\lookupIP\lookupIP\bin\Debug\netcoreapp2.1\lookupIP.pdb
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\lookupIP\lookupIP\obj\Debug\netcoreapp2.1\lookupIP.csprojAssemblyReference.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\lookupIP\lookupIP\obj\Debug\netcoreapp2.1\lookupIP.csproj.CoreCompileInputs.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\lookupIP\lookupIP\obj\Debug\netcoreapp2.1\lookupIP.AssemblyInfoInputs.cache
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\lookupIP\lookupIP\obj\Debug\netcoreapp2.1\lookupIP.AssemblyInfo.cs
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\lookupIP\lookupIP\obj\Debug\netcoreapp2.1\lookupIP.dll
+C:\Users\Nikola.Gerun.ARGUSNET\Documents\Visual Studio 2017\Projects\lookupIP\lookupIP\obj\Debug\netcoreapp2.1\lookupIP.pdb
